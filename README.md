@@ -1,6 +1,6 @@
-<p align="center">
-  <img width="100%" src="/assets/skatter-programmer.gif">
-</p>
+
+  <img width="100%" src="/assets/skatter-programmer.gif" >
+
 
 ### Hi there, I'm Biswajit! 👋
 
