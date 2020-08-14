@@ -1,6 +1,6 @@
 
-  <img width="100%" src="/assets/skatter-programmer.gif" >
-
+  <!-- <img width="100%" src="/assets/skatter-programmer.gif" > -->
+<img align="center" width="100%" src="https://github.com/biswajitbhunia123/biswajitbhunia123/blob/master/assets/skatter-programmer.gif?raw=true">
 
 ### Hi there, I'm Biswajit! 👋
 
