@@ -22,5 +22,5 @@
 |<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biswajitbhunia123&show_icons=true&theme=dark&locale=en" alt="biswajitbhunia123" /></p>|<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biswajitbhunia123&theme=dark" alt="biswajitbhunia123" /></p>|
 |----|---|
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=biswajitbhunia123&bg_color=212121&color=ffbdfb&line=e5988f&point=fd68c6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=biswajitbhunia123&bg_color=212121&color=ffbdfb&line=e5988f&point=fd68c6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
