@@ -13,14 +13,14 @@
 
 <div align="center">
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=biswajitbhunia123.biswajitbhunia123)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=biswajit-bhunia.biswajit-bhunia)
 
 </div>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=biswajitbhunia123&margin-w=15&margin-h=15&no-bg=true&column=5&row=1&theme=gruvbox" alt="biswajitbhunia123" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=biswajit-bhunia&margin-w=15&margin-h=15&no-bg=true&column=5&row=1&theme=gruvbox" alt="biswajit-bhunia" /></a> </p>
 
-|<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biswajitbhunia123&show_icons=true&theme=dark&locale=en" alt="biswajitbhunia123" /></p>|<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biswajitbhunia123&theme=dark" alt="biswajitbhunia123" /></p>|
+|<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biswajit-bhunia&show_icons=true&theme=dark&locale=en" alt="biswajit-bhunia" /></p>|<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biswajit-bhunia&theme=dark" alt="biswajit-bhunia" /></p>|
 |----|---|
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=biswajitbhunia123&bg_color=212121&color=ffbdfb&line=e5988f&point=fd68c6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=biswajit-bhunia&bg_color=212121&color=ffbdfb&line=e5988f&point=fd68c6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
